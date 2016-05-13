@@ -1,7 +1,10 @@
 ---
 title: The SetStack Computer
 date: 2016-05-13 16:57:37
-tags: UVa
+tags: 
+- UVa 
+- STL 
+- stack
 ---
 # The SetStack Computer
 > 有一个专门为了集合运算而设计的“集合栈”计算机。该机器有一个初始为空的栈，并且支持以下操作：
